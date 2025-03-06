@@ -5,6 +5,7 @@ nav {
   padding-block: 1.25rem;
   justify-content: space-between;
   align-items: center;
+  margin-inline: auto;
 
   & img {
     width: 2rem;
