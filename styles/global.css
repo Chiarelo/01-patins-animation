@@ -29,6 +29,10 @@ html, button {
   font: var(--text-base)/150% var(--ff-montserrat);
 }
 
+html {
+  zoom: .5;
+}
+
 h1, h2 {
   font-family: var(--ff-syne);
 }
