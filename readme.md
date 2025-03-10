@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Logo" src="">
+  <img alt="Logo" src="https://github.com/user-attachments/assets/3ac960f3-cdc1-4db7-9aaa-167a6d9bfda6">
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto-img1" src="">
+  <img alt="Projeto-img1" src="https://github.com/user-attachments/assets/1bfd18d5-4eb9-40f5-856f-3c75c46e3fe2">
   
 </p>
 
