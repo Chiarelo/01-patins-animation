@@ -21,11 +21,11 @@ nav {
     }
   }
 
-  a {
+  & a {
     position: relative;
   }
 
-  span {
+  & span {
     position: absolute;
     font: 500 0.75rem/130% "Inter", sans-serif;
 

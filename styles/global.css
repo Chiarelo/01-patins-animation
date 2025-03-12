@@ -53,3 +53,15 @@ a {
   padding-inline: 2rem;
   margin-inline: auto;
 }
+
+@media (width <= 48em){
+  .container {
+    max-width: clamp(24em, 36em, 48em);
+    padding-inline: 1.5rem;
+  }
+
+  :root {
+    --text-lg: 1.5rem;
+    --text-xl: 2rem;
+  }
+}
