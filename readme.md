@@ -30,12 +30,11 @@
   
 </p>
 
-<!--
+
 <p align="center">📱 <b>Para Celular:</b></p>
 <p align="center">
-  <img alt="Projeto para Celular" src="" width="300px">
+  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/6fcd4e62-9c9c-451c-a063-021d5b9aaa9a" width="300px">
 </p>
--->
 
 ---
 
