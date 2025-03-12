@@ -30,6 +30,7 @@ html, button {
 }
 
 
+
 h1, h2 {
   font-family: var(--ff-syne);
 }
@@ -49,6 +50,12 @@ a {
   text-decoration: none;
 }
 
+body {
+  overflow-x: hidden;
+}
+
+
+
 .container {
   padding-inline: 2rem;
   margin-inline: auto;
@@ -58,6 +65,11 @@ a {
   .container {
     max-width: clamp(24em, 36em, 48em);
     padding-inline: 1.5rem;
+  }
+
+  nav, section, footer {
+    overflow-x: hidden;
+  
   }
 
   :root {

@@ -98,3 +98,29 @@
     transform: translateY(100%);
   }
 }
+
+@media (max-width: 48rem) {
+  .gallery {
+    margin-inline: auto;
+    max-width: 19.5rem;
+    & .content {
+      grid-template-areas:
+        "A A A"
+        "B B B"
+        "C C C"
+        "D D D";
+      gap: 1.5rem;
+
+      & figure {
+        animation-range: 75px 200px;
+
+        &[data-delay] {
+          animation-range: 100px 250px;
+        }
+        & > img {
+          height: 16rem;
+        }
+      }
+    }
+  }
+}

@@ -222,7 +222,6 @@ section.hero {
       display: flex;
       flex-direction: column;
       gap: 3rem;
-      max-width: 19.5rem;
 
       & h1 {
         font-weight: 700;
@@ -239,10 +238,10 @@ section.hero {
           height: 2.5rem;
         }
 
-        & .buttons {
-          flex-direction: column-reverse;
-          width: 100%;
-        }
+      }
+      & .buttons {
+        flex-direction: column-reverse;
+        width: 100%;
       }
     }
   }
